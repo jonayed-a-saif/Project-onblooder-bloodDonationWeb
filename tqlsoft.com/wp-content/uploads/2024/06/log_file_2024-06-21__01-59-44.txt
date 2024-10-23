@@ -1,0 +1,212 @@
+
+---Downloaded files---
+The import files for: Webteck Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://tqlsoft.com
+Data file = /home/onbloode/public_html/tqlsoft.com/wp-content/themes/webteck/inc/demo-data/webteck-demo.xml
+Widget file = /home/onbloode/public_html/tqlsoft.com/wp-content/themes/webteck/inc/demo-data/webteck-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+webteck_opt -> /home/onbloode/public_html/tqlsoft.com/wp-content/themes/webteck/inc/demo-data/redux_options_demo.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Webteck :: Recent Posts - Recent Posts - Imported
+
+Page Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Footer Widgets Area 1 : 
+
+Webteck :: About Us Widget - ABOUT COMPANY - Imported
+
+Footer Widgets Area 2 : 
+
+Navigation Menu - QUICK LINKS - Imported
+
+Footer Widgets Area 3 : 
+
+Navigation Menu - IT SERVICES - Imported
+
+Footer Widgets Area 4 : 
+
+Webteck :: Recent Posts - RECENT POSTS - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: webteck_opt finished successfully!
+
+---ocdi/after_import---
+

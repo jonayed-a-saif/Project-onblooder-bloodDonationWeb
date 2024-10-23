@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from script.viserlab.com/bloodlab/blood/donor/ab/eyJpdiI6Ik80a0dUNHFlZlFYc3ZZTGR0VWxYS3c9PSIsInZhbHVlIjoiZDAxQ1BVZ0tja0V4TXFUOGlCeW1xdz09IiwibWFjIjoiNTUyY2I2ZmUwZDcyOTE1OTBkYjUwMmViYjIxYWU2ZWE2ZWNhZTVlZjk4ZWE2OTAyZjZlMTc1MDVmODY4ZTYxNyJ9 by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 18 Mar 2024 05:48:55 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BloodLab - AB- Blood Group Donor</title>
+  <meta name="title" Content="BloodLab - AB- Blood Group Donor">
+    <meta name="description" content="Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit">
+    <meta name="keywords" content="BloodLab,Blood Donation,Blood Donation Platform">
+    <link rel="shortcut icon" href="../../../assets/images/logoIcon/favicon.png" type="image/x-icon">
+
+    
+    <link rel="apple-touch-icon" href="../../../assets/images/logoIcon/logo.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="BloodLab - AB- Blood Group Donor">
+    
+    <meta itemprop="name" content="BloodLab - AB- Blood Group Donor">
+    <meta itemprop="description" content="">
+    <meta itemprop="image" content="../../../assets/images/seo/61093a8563ade1627994757.jpg">
+    
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="BloodLab - Blood Donation Platform">
+    <meta property="og:description" content="Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit ff">
+    <meta property="og:image" content="../../../assets/images/seo/61093a8563ade1627994757.jpg"/>
+    <meta property="og:image:type" content="image/jpg" />
+        <meta property="og:image:width" content="600" />
+    <meta property="og:image:height" content="315" />
+    <meta property="og:url" content="eyJpdiI6Ik80a0dUNHFlZlFYc3ZZTGR0VWxYS3c9PSIsInZhbHVlIjoiZDAxQ1BVZ0tja0V4TXFUOGlCeW1xdz09IiwibWFjIjoiNTUyY2I2ZmUwZDcyOTE1OTBkYjUwMmViYjIxYWU2ZWE2ZWNhZTVlZjk4ZWE2OTA">
+    
+    <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" type="image/png" href="../../../assets/images/logoIcon/favicon.png" sizes="16x16">
+  <link rel="stylesheet" href="../../../assets/templates/basic/frontend/css/lib/bootstrap.min.css">
+  <link rel="stylesheet" href="../../../assets/templates/basic/frontend/css/all.min.css"> 
+  <link rel="stylesheet" href="../../../assets/templates/basic/frontend/css/line-awesome.min.css"> 
+  <link rel="stylesheet" href="../../../assets/templates/basic/frontend/css/lightcase.css"> 
+  <link rel="stylesheet" href="../../../assets/templates/basic/frontend/css/lib/slick.css">
+  <link rel="stylesheet" href="../../../assets/templates/basic/frontend/css/main.css">
+  <link rel="stylesheet" href="../../../assets/templates/basic/css/custom.css">
+      <link href="../../../assets/templates/basic/frontend/css/colore4b4.css?color=FB3640&amp;secondColor=17173A" rel="stylesheet"/>
+</head>
+    <body> 
+                <div class="scroll-to-top">
+            <span class="scroll-icon">
+                <i class="las la-arrow-up"></i>
+            </span> 
+        </div> 
+       <div class="preloader-holder">
+              <div class="preloader">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+              </div>
+        </div>
+        <header class="header">
+    <div class="header__top">
+        <div class="container">
+            <div class="row align-items-center gy-2">
+                <div class="col-lg-6 col-md-8 col-sm-9">
+                    <ul class="header__info-list d-flex flex-wrap align-items-center justify-content-sm-start justify-content-center">
+                        <li><a href="tel:44983456780"><i class="las la-phone"></i> 44983456780</a></li>
+                        <li><a href="https://script.viserlab.com/cdn-cgi/l/email-protection#4723222a2807202a262e2b6924282a"><i class="las la-envelope"></i> <span class="__cf_email__" data-cfemail="385c5d5557785f55595154165b5755">[email&#160;protected]</span></a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-6 col-md-4 col-sm-3 text-sm-end text-center">
+                    <select class="language-select langSel">
+                                                    <option value="en"  selected  >English</option>
+                                                    <option value="hn" >Hindi</option>
+                                                    <option value="bn" >Bangla</option>
+                                            </select>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="header__bottom"> 
+        <div class="container">
+            <nav class="navbar navbar-expand-xl p-0 align-items-center">
+                <a class="site-logo site-title" href="https://script.viserlab.com/bloodlab">
+                    <img src="../../../assets/images/logoIcon/logo.png" alt="logo"> 
+                </a>
+                <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="menu-toggle"></span>
+                </button>
+                <div class="collapse navbar-collapse mt-lg-0 mt-3" id="navbarSupportedContent">
+                    <ul class="navbar-nav main-menu ms-auto">
+                        <li><a href="https://script.viserlab.com/bloodlab">Home</a></li>
+                                                     <li><a href="../../../about-us.html">About</a></li>
+                                                    <li><a href="../../../donor.html">Donor</a></li>
+                                                    <li><a href="../../../blog.html">Blog</a></li>
+                                                    <li><a href="../../../contact.html">Contact</a></li>
+                                            </ul>
+                    <div class="nav-right">
+                        <a href="../../../apply/donor.html" class="btn btn-md btn--base d-flex align-items-center"><i class="las la-user fs--18px me-2"></i> Apply as a Donor</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+</header>        <div class="main-wrapper">
+            <section class="inner-hero bg_img overlay--one" style="background-image: url('../../../assets/images/frontend/breadcrumb/61023f89990b81627537289.jpg');">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6 text-center">
+                <h2 class="page-title text-white">AB- Blood Group Donor</h2>
+                <ul class="page-breadcrumb justify-content-center">
+                    <li><a href="https://script.viserlab.com/bloodlab">Home</a></li>
+                    <li>AB- Blood Group Donor</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="donor-search-area">
+    <div class="container">
+        <form method="GET" action="https://script.viserlab.com/bloodlab/donor/search" class="donor-search-form">
+            <div class="donor-search-form__field">
+                <label>Blood Group</label>
+                <select class="select" name="blood_id">
+                    <option value="" selected="" disabled="">Select Group</option>
+                                            <option value="1" >B+</option>
+                                            <option value="2" >A+</option>
+                                            <option value="3" >AB+</option>
+                                            <option value="4" >O+</option>
+                                            <option value="5" >A-</option>
+                                            <option value="6" >B-</option>
+                                            <option value="7" >AB-</option>
+                                            <option value="8" >O-</option>
+                                    </select>
+            </div>
+
+            <div class="donor-search-form__field">
+                <label>City</label>
+                <select class="select" name="city_id">
+                    <option value="" disabled="" selected="">Select One</option>
+                                            <option value="1" data-locations="[{&quot;id&quot;:1,&quot;name&quot;:&quot;Abbey Wood&quot;,&quot;city_id&quot;:1,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2021-07-31T11:45:49.000000Z&quot;,&quot;updated_at&quot;:&quot;2021-08-01T10:30:39.000000Z&quot;},{&quot;id&quot;:2,&quot;name&quot;:&quot;Crystalpalace&quot;,&quot;city_id&quot;:1,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2021-07-31T12:10:14.000000Z&quot;,&quot;updated_at&quot;:&quot;2021-08-01T10:29:13.000000Z&quot;},{&quot;id&quot;:3,&quot;name&quot;:&quot;Addiscombe&quot;,&quot;city_id&quot;:1,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2021-08-01T10:30:48.000000Z&quot;,&quot;updated_at&quot;:&quot;2021-08-01T10:30:48.000000Z&quot;}]">London</option>
+                                            <option value="2" data-locations="[{&quot;id&quot;:4,&quot;name&quot;:&quot;Addiscombe&quot;,&quot;city_id&quot;:2,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2021-08-01T10:31:30.000000Z&quot;,&quot;updated_at&quot;:&quot;2021-08-01T10:31:30.000000Z&quot;},{&quot;id&quot;:5,&quot;name&quot;:&quot;Trafford&quot;,&quot;city_id&quot;:2,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2021-08-01T10:31:40.000000Z&quot;,&quot;updated_at&quot;:&quot;2021-08-01T10:31:40.000000Z&quot;}]">Manchester</option>
+                                            <option value="3" data-locations="[{&quot;id&quot;:6,&quot;name&quot;:&quot;Acocks Green&quot;,&quot;city_id&quot;:3,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2021-08-01T10:32:14.000000Z&quot;,&quot;updated_at&quot;:&quot;2021-08-01T10:32:14.000000Z&quot;},{&quot;id&quot;:7,&quot;name&quot;:&quot;Alum Rock&quot;,&quot;city_id&quot;:3,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2021-08-01T10:32:25.000000Z&quot;,&quot;updated_at&quot;:&quot;2021-08-01T10:32:25.000000Z&quot;}]">Birmingham</option>
+                                            <option value="4" data-locations="[{&quot;id&quot;:8,&quot;name&quot;:&quot;Avonmouth&quot;,&quot;city_id&quot;:4,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2021-08-01T10:32:59.000000Z&quot;,&quot;updated_at&quot;:&quot;2021-08-01T10:32:59.000000Z&quot;},{&quot;id&quot;:9,&quot;name&quot;:&quot;Bedminster&quot;,&quot;city_id&quot;:4,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2021-08-01T10:33:09.000000Z&quot;,&quot;updated_at&quot;:&quot;2021-08-01T10:33:09.000000Z&quot;}]">Bristol</option>
+                                            <option value="5" data-locations="[{&quot;id&quot;:10,&quot;name&quot;:&quot;Abbotsley&quot;,&quot;city_id&quot;:5,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2021-08-01T10:33:48.000000Z&quot;,&quot;updated_at&quot;:&quot;2021-08-01T10:33:48.000000Z&quot;},{&quot;id&quot;:11,&quot;name&quot;:&quot;Abbots Ripton&quot;,&quot;city_id&quot;:5,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2021-08-01T10:34:01.000000Z&quot;,&quot;updated_at&quot;:&quot;2021-08-01T10:34:01.000000Z&quot;}]">Cambridge</option>
+                                            <option value="6" data-locations="[]">Canterbury</option>
+                                            <option value="7" data-locations="[{&quot;id&quot;:12,&quot;name&quot;:&quot;Ancient Carlisle&quot;,&quot;city_id&quot;:7,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2021-08-01T10:34:50.000000Z&quot;,&quot;updated_at&quot;:&quot;2021-08-01T10:34:50.000000Z&quot;},{&quot;id&quot;:13,&quot;name&quot;:&quot;Middle Ages&quot;,&quot;city_id&quot;:7,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2021-08-01T10:35:04.000000Z&quot;,&quot;updated_at&quot;:&quot;2021-08-01T10:35:04.000000Z&quot;}]">Carlisle</option>
+                                            <option value="8" data-locations="[{&quot;id&quot;:14,&quot;name&quot;:&quot;Neolithic&quot;,&quot;city_id&quot;:8,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2021-08-01T10:35:36.000000Z&quot;,&quot;updated_at&quot;:&quot;2021-08-01T10:35:36.000000Z&quot;}]">Chelmsford</option>
+                                            <option value="9" data-locations="[{&quot;id&quot;:15,&quot;name&quot;:&quot;Chisworth&quot;,&quot;city_id&quot;:9,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2021-08-01T10:36:11.000000Z&quot;,&quot;updated_at&quot;:&quot;2021-08-01T10:36:11.000000Z&quot;}]">Derby1</option>
+                                    </select>
+            </div>
+
+            <div class="donor-search-form__field">
+                <label>Location</label>
+                <select class="select" name="location_id">
+                    <option value="" selected="" disabled="">Select One</option>
+                </select>
+            </div>
+
+            <div class="donor-search-form__field">
+                <label>Donor Type</label>
+                <select class="select" name="gender">
+                    <option value="" selected="" disabled="">Select One</option>
+                    <option value="1" >Male</option>
+                    <option value="2" >Female</option>
+                </select>
+            </div>
+
+            <div class="donor-search-form__btn">
+                <button type="submit" class="btn btn-md btn--base">Search</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<section class="pt-50 pb-50 shade--bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-2 col-lg-3 col-md-4 d-md-block d-none">
+                <a  target="_blank" href="../../../add/eyJpdiI6IlBtdDFwSnI0cHJMZlBJYlJzSDNESVE9PSIsInZhbHVlIjoiWHlvTEE2c2dQOGxuQnROYVNGMm12UT09IiwibWFjIjoiYjI3NDVkNThjMDA4ZDc3Zjc5OGE2ZTgwNmVhYzA0MWEzMjRjY2E1OTkwODYwYTMzMTc1YzVjOW" class="d-block bonus"><img src="../../../assets/images/advertisement/6107f71a3be0e1627911962.png" alt="image"></a>
+                <a  target="_blank" href="../../../add/eyJpdiI6InVzY2p3dWxmNlIzNE5iWDFrZk5Ud0E9PSIsInZhbHVlIjoidk5yR3hnVlRJbHppVGNGay9YNW8rUT09IiwibWFjIjoiNjAzODRiZmFkZmI5YjljZTk1ZjZhYjNkZTZmOTk4ZDA3ZGQwNGZmNmE0OTQ4MTMxNTFkYzZlZj" class="d-block bonus"><img src="../../../assets/images/advertisement/6107f72aeef731627911978.png" alt="image"></a>
+                <a  target="_blank" href="../../../add/eyJpdiI6Ii84d2R6eEkraUxEMmhWWjcrYUppOEE9PSIsInZhbHVlIjoiSFFrcXYvVnY3U2J0OWtlYmYrWXBHUT09IiwibWFjIjoiMGM0OTY2ZjU4ZTdhYThiNjQwZDhkZDRmNGQyMWZhYzcyNjUzNmU5YWEzMmEyMjQ1ZTgzNTI0M2" class="d-block bonus"><img src="../../../assets/images/advertisement/6107f739b69161627911993.png" alt="image"></a>
+                <a  target="_blank" href="../../../add/eyJpdiI6Ik9zZEIwMCtsWWtLWC84elp2a2huV3c9PSIsInZhbHVlIjoiS1FCVWpOZG5XaVVPUEt0bHVNZEVHZz09IiwibWFjIjoiNTJhNGY3OWIyNjcwMGZmODJlNDNmMTA4ZTdhZWUxOTMzNjE2OTYxYjllZDBlYWRkYjZkOGQwNj" class="d-block bonus"><img src="../../../assets/images/advertisement/6107f71a3be0e1627911962.png" alt="image"></a>            </div>
+            <div class="col-xl-8 col-lg-9 col-md-8">
+                <div class="row gy-4">
+                                            <h3 class="text-center">No data found</h3>
+                                    </div>
+                <nav class="mt-4 pagination-md">
+                
+                </nav>
+            </div>
+            <div class="col-xl-2 d-xl-block d-none">
+                <a  target="_blank" href="../../../add/eyJpdiI6IlNhYWdZeUJncXZKRkFpYk9XdFRsa3c9PSIsInZhbHVlIjoiVVNPUHF1OVJRQmhOL09McUlKT2t3dz09IiwibWFjIjoiZGIxYmVhNzU5NmJhOWRlODUzMDFiMDAzMTUzYzBlYTY2NWQxYjliNTIyNWRkNGJiYTk0MjZjNG" class="d-block bonus"><img src="../../../assets/images/advertisement/6107f71a3be0e1627911962.png" alt="image"></a>
+                <a  target="_blank" href="../../../add/eyJpdiI6Ii9HRVlFNGt3blVZaDF4QzhXdkUvR2c9PSIsInZhbHVlIjoiM1RNZ3c0MEdOd0J0TTBBaFRBd2lCUT09IiwibWFjIjoiMWE0M2ZmOTA2MmZjMzdhMTFlNzIxY2U3NWMxNmQyMTU1NjQwOTgxZTRlMmRiYzYyOGRiZjMxMm" class="d-block bonus"><img src="../../../assets/images/advertisement/6107f7c80596c1627912136.png" alt="image"></a>
+                <a  target="_blank" href="../../../add/eyJpdiI6IlFGTXNIeXR3ajdnS1JsUDZlbGFxWWc9PSIsInZhbHVlIjoiNzAwb3hieGt6TWNvOTQ1cE5qekJFUT09IiwibWFjIjoiODllYTk0OTZmNTE4MmRhYjlhM2RkZmE2ZmNiYzAxOGVhNmE5OTkxYjU3NDllOTc1ZDI4ZDAwMD" class="d-block bonus"><img src="../../../assets/images/advertisement/6107f739b69161627911993.png" alt="image"></a>
+                <a  target="_blank" href="../../../add/eyJpdiI6IjNwQ1k0R1VUaWVFZTRBK1ZaYlVTNUE9PSIsInZhbHVlIjoidXpiZnlwaWJsdWdMaHZ6cVdiTHZtdz09IiwibWFjIjoiNjFiMjljZDA0NjgyYTI3NDkzYWFkMTM2N2JiYTlmODJhMzBjOTc0ZmU1NjQ1MDQ4YTVmZTRjMT" class="d-block bonus"><img src="../../../assets/images/advertisement/6107f71a3be0e1627911962.png" alt="image"></a>            </div>
+        </div>
+    </div>
+</section>
+        </div>
+        <div class="cookie__wrapper">
+        <div class="container">
+          <div class="d-flex flex-wrap align-items-center justify-content-between">
+            <p class="txt my-2">
+               <div><span style="font-family: Exo, sans-serif; font-size: 18px;">We may use cookies or any other tracking technologies when you visit our website, including any other media form, mobile website, or mobile application related or connected to help customize the Site and improve your experience.</span><br></div>              <a href="#" target="_blank">Read Policy</a>
+            </p>
+              <a href="javascript:void(0)" class="btn btn--base my-2 policy">Accept</a>
+          </div>
+        </div>
+    </div>
+
+<footer class="footer img-overlay bg_img" style="background-image: url(../../../assets/images/frontend/footer/61023b2b0ac1b1627536171.jpg);">
+    <div class="footer__top">
+        <div class="container">
+            <div class="footer-info-area">
+                <div class="row align-items-center gy-4">
+                    <div class="col-lg-9">
+                        <ul class="footer-contact-list justify-content-lg-start justify-content-center">
+                            <li>
+                                <div class="icon">
+                                    <i class="las la-phone-volume"></i>
+                                </div>
+                                <div class="content">
+                                    <a href="tel:44983456780">44983456780</a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon">
+                                    <i class="las la-envelope"></i>
+                                </div>
+                                <div class="content">
+                                    <a href="https://script.viserlab.com/cdn-cgi/l/email-protection#0c686961634c6b616d6560226f6361"><span class="__cf_email__" data-cfemail="d8bcbdb5b798bfb5b9b1b4f6bbb7b5">[email&#160;protected]</span></a>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 text-lg-end text-center">
+                        <a href="#" class="btn btn--base">Blood Donor</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row gy-5 justify-content-between">
+                <div class="col-xl-4 col-lg-4 col-sm-8 order-lg-1 order-1">
+                    <div class="footer-widget">
+                        <a href="https://script.viserlab.com/bloodlab" class="footer-logo"><img src="../../../assets/images/logoIcon/logo.png" alt="logo"></a>
+                        <p class="mt-3">Animi sequi aliquam illum voluptatum ratione, quaerat dignissimos fugiat. Ea, vitae odio quasi aspernatur expedita maiores, quidem voluptates libero quaerat fugiat nisi, ratione inventore iusto nostrum voluptas sint culpa.</p>
+                        <form class="subscribe-form mt-4">
+                            <input type="email" name="email" id="emailSub" class="form--control" placeholder="Enter email address">
+                            <button type="button" class="subscribe-btn"><i class="lab la-telegram-plane"></i></button>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-lg-3 col-sm-6 order-lg-2 order-3">
+                    <div class="footer-widget">
+                        <h4 class="footer-widget__title">Short Links</h4>
+                        <ul class="footer-links-list">
+                                                            <li><a href="../../../about-us.html">About</a></li>
+                                                            <li><a href="../../../donor.html">Donor</a></li>
+                                                            <li><a href="../../../blog.html">Blog</a></li>
+                                                            <li><a href="../../../contact.html">Contact</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-lg-3 col-sm-6 order-lg-3 order-4">
+                    <div class="footer-widget">
+                        <h4 class="footer-widget__title">Support</h4>
+                        <ul class="footer-links-list">
+                            <li><a href="../../../contact.html">Support Center</a></li>
+                            <li><a href="../../../apply/donor.html">Apply as a Donor</a></li>
+                                                            <li><a href="../../../menu/terms-of-service/43.html">Terms of Service</a></li>
+                                                            <li><a href="../../../menu/privacy-policy/42.html">Privacy Policy</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-lg-2 col-sm-4 order-lg-4 order-2">
+                    <div class="footer-widget">
+                        <ul class="footer-overview-list text-end">
+                            <li class="footer-overview">
+                                <h4 class="footer-overview__number">4523</h4>
+                                <p class="footer-overview__caption">Donors</p>
+                            </li>
+                            <li class="footer-overview">
+                                <h4 class="footer-overview__number">5324</h4>
+                                <p class="footer-overview__caption">Volunteers</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p>Copyright © 2024 <a href="https://script.viserlab.com/bloodlab" class="text--base"> BloodLab </a> All Right Reserved</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+        <script data-cfasync="false" src="../../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="../../../assets/templates/basic/frontend/js/lib/jquery-3.6.0.min.js"></script>
+        <script src="../../../assets/templates/basic/frontend/js/lib/bootstrap.bundle.min.js"></script>
+        <script src="../../../assets/templates/basic/frontend/js/lib/slick.min.js"></script>
+        <script src="../../../assets/templates/basic/frontend/js/lib/wow.min.js"></script>
+        <script src="../../../assets/templates/basic/frontend/js/lib/lightcase.js"></script>
+        <script src="../../../assets/templates/basic/frontend/js/app.js"></script>
+                <script>
+    (function($){
+        "use strict";
+
+        $('select[name=city_id]').on('change',function() {
+            $('select[name=location_id]').html('<option value="" selected="" disabled="">Select One</option>');
+            var locations = $('select[name=city_id] :selected').data('locations');
+            var html = '';
+            locations.forEach(function myFunction(item, index) {
+                html += `<option value="${item.id}">${item.name}</option>`
+            });
+            $('select[name=location_id]').append(html);
+        });
+        
+    })(jQuery)
+</script>
+<script>
+    (function () {
+        'use strict';
+        $(document).on('click','.subscribe-btn' , function(){
+            var email = $("#emailSub").val();
+            if(email){
+                $.ajax({
+                    headers: {"X-CSRF-TOKEN": "w4ARB189GTNH3jYa3LYnfHGJlpmYmNe8zBKZ9Olh",},
+                    url:"https://script.viserlab.com/bloodlab/subscribe",
+                    method:"POST",
+                    data:{email:email},
+                    success:function(response)
+                    {
+                        if(response.success) {
+                            notify('success', response.success);
+                            $("#emailSub").val('');
+                        }else{
+                            $.each(response, function (i, val) {
+                                notify('error', val);
+                            });
+                        }
+                    }
+                });
+            }
+            else{
+                notify('error', "Please Input Your Email");
+            }
+        });
+
+        $('.policy').on('click',function(){
+            $.ajaxSetup({
+                headers: {
+                    'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+                }
+            });
+            $.get('../../../cookie/accept.json', function(response){
+                $('.cookie__wrapper').addClass('d-none');
+                notify('success', response);
+            });
+        });
+    })();
+</script>
+                <link rel="stylesheet" href="../../../assets/global/css/iziToast.min.css">
+<script src="../../../assets/global/js/iziToast.min.js"></script>
+
+<script>
+    "use strict";
+    function notify(status,message) {
+        iziToast[status]({
+            message: message,
+            position: "topRight"
+        });
+    }
+</script>
+        <script>
+            (function ($) {
+                "use strict";
+                $(".langSel").on("change", function() {
+                    window.location.href = "https://script.viserlab.com/bloodlab/change/"+$(this).val() ;
+                });
+            })(jQuery);
+        </script>
+            
+        <script>
+  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+  (function(){
+    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+    s1.async=true;
+    s1.src='https://embed.tawk.to/5fe0b9b2a8a254155ab5421d/1eq2tap1m';
+    s1.charset='UTF-8';
+    s1.setAttribute('crossorigin','*');
+    s0.parentNode.insertBefore(s1,s0);
+  })();
+</script>
+
+<script>
+if (window.top != window.self) {
+    document.body.innerHTML += '<div style="position:fixed;top:0;width:100%;z-index:9999999;background:#f8d7da;color:#721c24;text-align:center; padding: 20px;"><p style="font-size:20px; font-weight: bold;">You are using this website under an external iframe!!</p><p style="font-size:16px; margin-top: 20px;">for a better experience, please browse directly instead of an external iframe.</p><a href="'+window.self.location+'" target="_blank" style=" margin-top:20px; color: #fff;background-color: #dc3545; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Browse Directly</a></div>';
+}
+</script>
+
+
+<script>
+    adroll_adv_id = "YXRNNTO7ZBAMFBH67UUE5M";
+    adroll_pix_id = "MMQQDWGN25EXPHGRPA3NLR";
+    adroll_version = "2.0";
+    (function(w, d, e, o, a) {
+        w.__adroll_loaded = true;
+        w.adroll  = w.adroll  || [];
+        w.adroll.f = [ 'setProperties', 'identify', 'track' ];
+        var roundtripUrl = "https://s.adroll.com/j/" + adroll_adv_id
+                + "/roundtrip.js";
+        for (a = 0; a < w.adroll.f.length; a++) {
+            w.adroll[w.adroll.f[a]] = w.adroll[w.adroll.f[a]] || (function(n) {
+                return function() {
+                    w.adroll.push([ n, arguments ])
+                }
+            })(w.adroll.f[a])
+        }
+        e = d.createElement('script');
+        o = d.getElementsByTagName('script')[0];
+        e.async  = 1;
+        e.src  = roundtripUrl;
+        o.parentNode.insertBefore(e, o);
+    })(window, document);
+    adroll.track("pageView");
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1ME4K0RD7K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1ME4K0RD7K');
+</script>        
+    </body>
+
+<!-- Mirrored from script.viserlab.com/bloodlab/blood/donor/ab/eyJpdiI6Ik80a0dUNHFlZlFYc3ZZTGR0VWxYS3c9PSIsInZhbHVlIjoiZDAxQ1BVZ0tja0V4TXFUOGlCeW1xdz09IiwibWFjIjoiNTUyY2I2ZmUwZDcyOTE1OTBkYjUwMmViYjIxYWU2ZWE2ZWNhZTVlZjk4ZWE2OTAyZjZlMTc1MDVmODY4ZTYxNyJ9 by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 18 Mar 2024 05:48:55 GMT -->
+</html> 
